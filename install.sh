@@ -24,14 +24,15 @@ clear
 echo "Downloading image (4/8)..."
 https://raw.githubusercontent.com/leon8326-nogeese/wallpaper/main/Next/contents/images-dark/1080x2280.png >> contents/images_dark/1080x2280.png
 clear
-echo "Downloading image (4/8)..."
+echo "Downloading image (5/8)..."
 https://raw.githubusercontent.com/leon8326-nogeese/wallpaper/main/Next/contents/images-dark/1024x768.png >> contents/images_dark/1024x768.png
 clear
-echo "Downloading image (4/8)..."
+echo "Downloading image (6/8)..."
 https://raw.githubusercontent.com/leon8326-nogeese/wallpaper/main/Next/contents/images/1024x768.png >> contents/images/1024x768.png
 clear
-echo "Downloading image (4/8)..."
+echo "Downloading image (7/8)..."
 https://raw.githubusercontent.com/leon8326-nogeese/wallpaper/main/Next/contents/images-dark/440x678.png >> contents/images_dark/440x678.png
 clear
-echo "Downloading image (4/8)..."
+echo "Downloading image (8/8)..."
 https://raw.githubusercontent.com/leon8326-nogeese/wallpaper/main/Next/contents/images/440x678.png >> contents/images/440x678.png
+echo "Done! Now choose '2D Plasma World' in your wallpaper settings."
